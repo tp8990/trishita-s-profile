@@ -33,7 +33,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I solve problems on Codechef.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trishita-paul-9bb41a253/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Trishita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trishita-paul-9bb41a253/)
 
 ---
 
