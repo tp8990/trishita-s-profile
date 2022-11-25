@@ -9,7 +9,9 @@
   <a href="https://www.linkedin.com/in/trishita-paul-9bb41a253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/tp8990?hr_r=1/">
   <img src="https://img.shields.io/badge/Hackerrank-in-green" alt="Hackerrank Badge" height="25"/>
+  </a>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=tp8990&style=flat-square&color=blue" alt=""/>
