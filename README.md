@@ -31,7 +31,7 @@ I'm Trishita Paul
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m a Student of SRM.
 
-- :seedling: knowledge of C++ & C.
+- :seedling: knowledge of C, C++ & Python.
 
 - :zap: In my free time, I solve problems on Codechef.
 
